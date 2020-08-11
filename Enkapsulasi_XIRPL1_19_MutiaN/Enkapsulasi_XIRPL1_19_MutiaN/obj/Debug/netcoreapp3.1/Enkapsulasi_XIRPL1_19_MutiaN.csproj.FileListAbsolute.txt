@@ -1,0 +1,13 @@
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.csprojAssemblyReference.cache
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.AssemblyInfoInputs.cache
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.AssemblyInfo.cs
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.csproj.CoreCompileInputs.cache
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.exe
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.deps.json
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.runtimeconfig.json
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.runtimeconfig.dev.json
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.dll
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.pdb
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.dll
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.pdb
+C:\Users\Andiono\source\repos\Enkapsulasi_XIRPL1_19_MutiaN\Enkapsulasi_XIRPL1_19_MutiaN\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_19_MutiaN.genruntimeconfig.cache

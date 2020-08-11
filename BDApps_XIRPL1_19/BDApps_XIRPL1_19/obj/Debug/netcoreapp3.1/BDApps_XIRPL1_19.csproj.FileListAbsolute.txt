@@ -1,0 +1,13 @@
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.csprojAssemblyReference.cache
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.AssemblyInfoInputs.cache
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.AssemblyInfo.cs
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.csproj.CoreCompileInputs.cache
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.exe
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.deps.json
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.runtimeconfig.json
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.runtimeconfig.dev.json
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.dll
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\bin\Debug\netcoreapp3.1\BDApps_XIRPL1_19.pdb
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.dll
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.pdb
+C:\Users\Andiono\source\repos\BDApps_XIRPL1_19\BDApps_XIRPL1_19\obj\Debug\netcoreapp3.1\BDApps_XIRPL1_19.genruntimeconfig.cache
