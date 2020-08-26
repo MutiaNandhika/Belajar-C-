@@ -1,0 +1,13 @@
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.exe
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.deps.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.runtimeconfig.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.runtimeconfig.dev.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.dll
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\bin\Debug\netcoreapp3.1\TUGAS SLIDE POLA.pdb
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.csprojAssemblyReference.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.AssemblyInfoInputs.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.AssemblyInfo.cs
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.csproj.CoreCompileInputs.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.dll
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.pdb
+C:\Users\Andiono\source\repos\TUGAS SLIDE POLA\TUGAS SLIDE POLA\obj\Debug\netcoreapp3.1\TUGAS SLIDE POLA.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SLIDE 28 KK3/1.0.0": {
+        "runtime": {
+          "SLIDE 28 KK3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLIDE 28 KK3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.exe
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.deps.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.runtimeconfig.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.runtimeconfig.dev.json
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.dll
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\bin\Debug\netcoreapp3.1\TUGAS SLIDE 28.pdb
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.csprojAssemblyReference.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.AssemblyInfoInputs.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.AssemblyInfo.cs
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.csproj.CoreCompileInputs.cache
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.dll
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.pdb
+C:\Users\Andiono\source\repos\TUGAS SLIDE 28\TUGAS SLIDE 28\obj\Debug\netcoreapp3.1\TUGAS SLIDE 28.genruntimeconfig.cache
